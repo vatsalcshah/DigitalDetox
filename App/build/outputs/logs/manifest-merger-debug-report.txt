@@ -1,0 +1,299 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml:3:1-60:12
+INJECTED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml:3:1-60:12
+INJECTED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml:3:1-60:12
+MERGED from [com.android.support:support-v13:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/support-v13-28.0.0.aar/042e15e024685df30ad5bd7ab18e7dd9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/db246d4e6ca76b079e23d3ddecfef45d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.turingtechnologies.materialscrollbar:lib:10.0.1] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/lib-10.0.1.aar/f56c1778620b737233a1c0b09ebc3d64/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/025ffc49e3a972284ccf4603a6aace6a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/c44121613c14fd65a9a38d1a2eba502f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/core-0.9.6.0.aar/8f07875981f558d15b9fbe30a8a16bae/AndroidManifest.xml:2:1-15:12
+MERGED from [com.mikepenz:fastadapter:2.1.5] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/fastadapter-2.1.5.aar/c572363b6ab2fd961f74402672a686d3/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/10ab98f434ad676a4aebb52c2ee73b2b/AndroidManifest.xml:17:1-22:12
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/library-1.4.2.aar/4c2c790f44206a74a845e761da0cc098/AndroidManifest.xml:6:1-16:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/fbc78374ccc8b64953805474019ce5d6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:multidex:1.0.3] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/d779551e5f1eb9c0aa7cc9fb41b99990/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/7e06d0baccde9c2b4ccfa01e7ef9f010/AndroidManifest.xml:17:1-30:12
+MERGED from [com.jakewharton:butterknife:8.7.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/butterknife-8.7.0.aar/0e4ec52351d71897ff7e352b42bc8f01/AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/c517baadd021ab83e9871b077605d50b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/453c9c25de9dad0873c3d375f001ad92/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/17656f5c2f9c9ceeb3659f28ad074c04/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/8466a6f2f21b2924247ec410afe21732/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/aa2e7caa81d076fced2ad04d9b05c6d8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/e17d3331a31d11f5c5dbe9bb28e680f1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/00737c7e12a6bd0dc783b0826efa2526/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/8e23e500fdf4a264b823783658210ad0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/e7a60e86962c9528a3ad2e81273b315b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/c2afa34d4ac5cb01434049ed873afdb1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/9ccabe3836221bd9bde04060765fd034/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence.room:runtime:1.1.1] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ceae20f4fdd91c934ba79ed55af0cf9a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/2037ffeee44c0ecf2a7dbffb236a09ac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/c5c04bdf1b99a2bb33ef0cb126274eed/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/44ff0e9f47e3690b80cae3c1d18ae855/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/8ff3e2198ae3d8c720fd230caf48ce86/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e79dca205cea7391233e91644a8741ab/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ee1ecf8809d892d73e39a3b3903fcdfd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.mikepenz:fastadapter-commons:2.1.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/fastadapter-commons-2.1.0.aar/2b6e3ec2500a7883a9657a73868c0642/AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.clans:fab:1.6.2] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/fab-1.6.2.aar/3a840af044f10cd445bbf29a42aea77a/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/ab618be01681ae68742b66339d42975f/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/81f2b0826b7dc40667647b88d7551b19/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/db011787539e47c240eb69389a453103/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/719b414e2ee579e4017f3bb4a12fec50/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0fdb9802edf81d98c32f52cebeff5b32/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/9fed98c0033b8b25dafbd6e6077b77b4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db-framework:1.1.1] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/db-framework-1.1.1.aar/cd30fa21df6ac25bca37911ac393451c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db:1.1.1] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/db-1.1.1.aar/0e0792e1e71e90db58e7710a8ab8c02c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/8b89aa49c9768e811628e6a02e0a79ec/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/819e8fee2e8e004833ada8fb2abec52d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/9410b6fe137889a6e41643397b2143a2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/257a03eea6ac65fb11463649d2eb6687/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/0f7a5ae0dd7c01fcf9def5a7a7b51d91/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml:3:1-60:12
+INJECTED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml:3:1-60:12
+	package
+		ADDED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml:5:5-46
+	android:versionName
+		ADDED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml:7:5-30
+		INJECTED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml
+		INJECTED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml:4:5-51
+	xmlns:android
+		ADDED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml:3:11-69
+	android:versionCode
+		ADDED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml:6:5-28
+		INJECTED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml
+		INJECTED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml
+uses-permission#android.permission.PACKAGE_USAGE_STATS
+ADDED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml:9:5-10:47
+	tools:ignore
+		ADDED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml:10:9-44
+	android:name
+		ADDED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml:9:22-75
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml:11:22-78
+application
+ADDED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml:13:5-59:19
+MERGED from [com.android.support:design:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/025ffc49e3a972284ccf4603a6aace6a/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/025ffc49e3a972284ccf4603a6aace6a/AndroidManifest.xml:22:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/core-0.9.6.0.aar/8f07875981f558d15b9fbe30a8a16bae/AndroidManifest.xml:13:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/core-0.9.6.0.aar/8f07875981f558d15b9fbe30a8a16bae/AndroidManifest.xml:13:5-20
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/7e06d0baccde9c2b4ccfa01e7ef9f010/AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/7e06d0baccde9c2b4ccfa01e7ef9f010/AndroidManifest.xml:22:5-28:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e79dca205cea7391233e91644a8741ab/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e79dca205cea7391233e91644a8741ab/AndroidManifest.xml:22:5-94
+MERGED from [com.github.clans:fab:1.6.2] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/fab-1.6.2.aar/3a840af044f10cd445bbf29a42aea77a/AndroidManifest.xml:12:5-20
+MERGED from [com.github.clans:fab:1.6.2] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/fab-1.6.2.aar/3a840af044f10cd445bbf29a42aea77a/AndroidManifest.xml:12:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/ab618be01681ae68742b66339d42975f/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/ab618be01681ae68742b66339d42975f/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/8b89aa49c9768e811628e6a02e0a79ec/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/8b89aa49c9768e811628e6a02e0a79ec/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e79dca205cea7391233e91644a8741ab/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml:16:9-41
+	tools:ignore
+		ADDED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml:19:9-60
+	android:icon
+		ADDED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml:17:9-45
+	android:allowBackup
+		ADDED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml:18:9-53
+	android:name
+		ADDED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml:14:9-44
+activity#com.vatsal.android.digitaldetox.activities.AppUsageStatisticsActivity
+ADDED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml:21:9-28:20
+	android:label
+		ADDED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml:22:19-51
+	android:theme
+		ADDED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml:23:13-44
+	android:name
+		ADDED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml:21:19-72
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml:24:13-27:29
+action#android.intent.action.MAIN
+ADDED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml:26:27-74
+activity#com.vatsal.android.digitaldetox.activities.NotificationActivity
+ADDED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml:30:9-31:58
+	android:theme
+		ADDED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml:31:13-56
+	android:name
+		ADDED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml:30:19-66
+activity#com.vatsal.android.digitaldetox.activities.OptionsActivity
+ADDED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml:32:9-34:38
+	android:label
+		ADDED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml:34:13-36
+	android:theme
+		ADDED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml:33:13-56
+	android:name
+		ADDED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml:32:19-61
+receiver#com.vatsal.android.digitaldetox.receiver.MonitorBootReceiver
+ADDED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml:36:9-46:20
+	android:enabled
+		ADDED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml:39:13-75
+	android:name
+		ADDED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml:40:13-57
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.QUICKBOOT_POWERON+category:name:android.intent.category.DEFAULT
+ADDED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml:41:13-45:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml:42:17-79
+	android:name
+		ADDED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml:42:25-76
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml:43:17-82
+	android:name
+		ADDED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml:43:25-79
+category#android.intent.category.DEFAULT
+ADDED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml:44:17-76
+	android:name
+		ADDED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml:44:27-73
+service#com.vatsal.android.digitaldetox.services.Monitor
+ADDED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml:48:9-53
+	android:name
+		ADDED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml:48:18-50
+service#com.vatsal.android.digitaldetox.services.NotificationService
+ADDED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml:49:9-65
+	android:name
+		ADDED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml:49:18-62
+service#com.vatsal.android.digitaldetox.services.PopulateDatabaseService
+ADDED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml:51:9-69
+	android:name
+		ADDED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml:51:18-66
+receiver#com.vatsal.android.digitaldetox.receiver.BootCompletedReceiver
+ADDED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml:53:9-57:20
+	android:name
+		ADDED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml:53:19-65
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml:54:13-56:29
+uses-sdk
+INJECTED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml
+INJECTED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v13:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/support-v13-28.0.0.aar/042e15e024685df30ad5bd7ab18e7dd9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/support-v13-28.0.0.aar/042e15e024685df30ad5bd7ab18e7dd9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/db246d4e6ca76b079e23d3ddecfef45d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/db246d4e6ca76b079e23d3ddecfef45d/AndroidManifest.xml:20:5-44
+MERGED from [com.turingtechnologies.materialscrollbar:lib:10.0.1] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/lib-10.0.1.aar/f56c1778620b737233a1c0b09ebc3d64/AndroidManifest.xml:7:5-9:41
+MERGED from [com.turingtechnologies.materialscrollbar:lib:10.0.1] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/lib-10.0.1.aar/f56c1778620b737233a1c0b09ebc3d64/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/025ffc49e3a972284ccf4603a6aace6a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/025ffc49e3a972284ccf4603a6aace6a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/c44121613c14fd65a9a38d1a2eba502f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/c44121613c14fd65a9a38d1a2eba502f/AndroidManifest.xml:20:5-44
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/core-0.9.6.0.aar/8f07875981f558d15b9fbe30a8a16bae/AndroidManifest.xml:8:5-11:75
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/core-0.9.6.0.aar/8f07875981f558d15b9fbe30a8a16bae/AndroidManifest.xml:8:5-11:75
+MERGED from [com.mikepenz:fastadapter:2.1.5] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/fastadapter-2.1.5.aar/c572363b6ab2fd961f74402672a686d3/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:fastadapter:2.1.5] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/fastadapter-2.1.5.aar/c572363b6ab2fd961f74402672a686d3/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/10ab98f434ad676a4aebb52c2ee73b2b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/10ab98f434ad676a4aebb52c2ee73b2b/AndroidManifest.xml:20:5-44
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/library-1.4.2.aar/4c2c790f44206a74a845e761da0cc098/AndroidManifest.xml:12:5-14:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/library-1.4.2.aar/4c2c790f44206a74a845e761da0cc098/AndroidManifest.xml:12:5-14:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/fbc78374ccc8b64953805474019ce5d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/fbc78374ccc8b64953805474019ce5d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:multidex:1.0.3] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/d779551e5f1eb9c0aa7cc9fb41b99990/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/d779551e5f1eb9c0aa7cc9fb41b99990/AndroidManifest.xml:20:5-43
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/7e06d0baccde9c2b4ccfa01e7ef9f010/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/7e06d0baccde9c2b4ccfa01e7ef9f010/AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife:8.7.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/butterknife-8.7.0.aar/0e4ec52351d71897ff7e352b42bc8f01/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.7.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/butterknife-8.7.0.aar/0e4ec52351d71897ff7e352b42bc8f01/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/c517baadd021ab83e9871b077605d50b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/c517baadd021ab83e9871b077605d50b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/453c9c25de9dad0873c3d375f001ad92/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/453c9c25de9dad0873c3d375f001ad92/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/17656f5c2f9c9ceeb3659f28ad074c04/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/17656f5c2f9c9ceeb3659f28ad074c04/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/8466a6f2f21b2924247ec410afe21732/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/8466a6f2f21b2924247ec410afe21732/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/aa2e7caa81d076fced2ad04d9b05c6d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/aa2e7caa81d076fced2ad04d9b05c6d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/e17d3331a31d11f5c5dbe9bb28e680f1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/e17d3331a31d11f5c5dbe9bb28e680f1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/00737c7e12a6bd0dc783b0826efa2526/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/00737c7e12a6bd0dc783b0826efa2526/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/8e23e500fdf4a264b823783658210ad0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/8e23e500fdf4a264b823783658210ad0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/e7a60e86962c9528a3ad2e81273b315b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/e7a60e86962c9528a3ad2e81273b315b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/c2afa34d4ac5cb01434049ed873afdb1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/c2afa34d4ac5cb01434049ed873afdb1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/9ccabe3836221bd9bde04060765fd034/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/9ccabe3836221bd9bde04060765fd034/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.1] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ceae20f4fdd91c934ba79ed55af0cf9a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.1] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ceae20f4fdd91c934ba79ed55af0cf9a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/2037ffeee44c0ecf2a7dbffb236a09ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/2037ffeee44c0ecf2a7dbffb236a09ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/c5c04bdf1b99a2bb33ef0cb126274eed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/c5c04bdf1b99a2bb33ef0cb126274eed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/44ff0e9f47e3690b80cae3c1d18ae855/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/44ff0e9f47e3690b80cae3c1d18ae855/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/8ff3e2198ae3d8c720fd230caf48ce86/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/8ff3e2198ae3d8c720fd230caf48ce86/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e79dca205cea7391233e91644a8741ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e79dca205cea7391233e91644a8741ab/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ee1ecf8809d892d73e39a3b3903fcdfd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ee1ecf8809d892d73e39a3b3903fcdfd/AndroidManifest.xml:20:5-44
+MERGED from [com.mikepenz:fastadapter-commons:2.1.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/fastadapter-commons-2.1.0.aar/2b6e3ec2500a7883a9657a73868c0642/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:fastadapter-commons:2.1.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/fastadapter-commons-2.1.0.aar/2b6e3ec2500a7883a9657a73868c0642/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.clans:fab:1.6.2] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/fab-1.6.2.aar/3a840af044f10cd445bbf29a42aea77a/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.clans:fab:1.6.2] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/fab-1.6.2.aar/3a840af044f10cd445bbf29a42aea77a/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/ab618be01681ae68742b66339d42975f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/ab618be01681ae68742b66339d42975f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/81f2b0826b7dc40667647b88d7551b19/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/81f2b0826b7dc40667647b88d7551b19/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/db011787539e47c240eb69389a453103/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/db011787539e47c240eb69389a453103/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/719b414e2ee579e4017f3bb4a12fec50/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/719b414e2ee579e4017f3bb4a12fec50/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0fdb9802edf81d98c32f52cebeff5b32/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0fdb9802edf81d98c32f52cebeff5b32/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/9fed98c0033b8b25dafbd6e6077b77b4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/9fed98c0033b8b25dafbd6e6077b77b4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/db-framework-1.1.1.aar/cd30fa21df6ac25bca37911ac393451c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/db-framework-1.1.1.aar/cd30fa21df6ac25bca37911ac393451c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/db-1.1.1.aar/0e0792e1e71e90db58e7710a8ab8c02c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/db-1.1.1.aar/0e0792e1e71e90db58e7710a8ab8c02c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/8b89aa49c9768e811628e6a02e0a79ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/8b89aa49c9768e811628e6a02e0a79ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/819e8fee2e8e004833ada8fb2abec52d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/819e8fee2e8e004833ada8fb2abec52d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/9410b6fe137889a6e41643397b2143a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/9410b6fe137889a6e41643397b2143a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/257a03eea6ac65fb11463649d2eb6687/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/257a03eea6ac65fb11463649d2eb6687/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/0f7a5ae0dd7c01fcf9def5a7a7b51d91/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/0f7a5ae0dd7c01fcf9def5a7a7b51d91/AndroidManifest.xml:20:5-44
+INJECTED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml
+INJECTED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.afollestad.material-dialogs:core:0.9.6.0] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/core-0.9.6.0.aar/8f07875981f558d15b9fbe30a8a16bae/AndroidManifest.xml:11:9-72
+	android:targetSdkVersion
+		INJECTED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml
+		ADDED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml
+		INJECTED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml
+		ADDED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml
+		INJECTED from /Users/vatsalshah/Desktop/Digital Detox/App/src/main/AndroidManifest.xml
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/7e06d0baccde9c2b4ccfa01e7ef9f010/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/7e06d0baccde9c2b4ccfa01e7ef9f010/AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/7e06d0baccde9c2b4ccfa01e7ef9f010/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/7e06d0baccde9c2b4ccfa01e7ef9f010/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/vatsalshah/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/7e06d0baccde9c2b4ccfa01e7ef9f010/AndroidManifest.xml:24:13-83

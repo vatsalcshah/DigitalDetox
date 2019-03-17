@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/vatsalshah/.android/build-cache/1dde2b542a83f82f3a22521a8e17aab47f7e03b1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/vatsalshah/Desktop/AppUsageStats-master/App/build/intermediates/pre-dexed/debug/classes_9be977750cc7accee48f9747d96414c1d719a62b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vatsalshah/.android/build-cache/037bffeeebdfe1d923f64114b871d1e4286e67fe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7d5e088ec6c37186a2b6f214a46ce547707c691e">
+        <dex dex="/Users/vatsalshah/Desktop/AppUsageStats-master/App/build/intermediates/pre-dexed/debug/classes_e4473526a695a84cf37eaf080584e52e07f0a924.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vatsalshah/.android/build-cache/e074773b64f5457410d1874b75cbbe12945177ce/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b74e6684048d5e4a6db0f2552241966f85c78993">
+        <dex dex="/Users/vatsalshah/Desktop/AppUsageStats-master/App/build/intermediates/pre-dexed/debug/classes_3a776e85f5f1e8d467efd3b573a6df432b477f1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vatsalshah/.android/build-cache/a0ba5bbc62deda5e4df3dee3e6b617bbafd724b4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/vatsalshah/Desktop/AppUsageStats-master/App/build/intermediates/pre-dexed/debug/classes_33853c69de5b47a29ea686298a012a4704c5b868.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vatsalshah/.android/build-cache/3b9d7d2c70eca5c6f391f729c2c1224548c841af/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/vatsalshah/Desktop/AppUsageStats-master/App/build/intermediates/pre-dexed/debug/classes_57a58a34f2c6e90e7b9cc67dba05d4ba4ad2372b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vatsalshah/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0-alpha3/ee266d06dc5e9a72af1fbeb36431a5e6e11ee303/common-1.0.0-alpha3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ee266d06dc5e9a72af1fbeb36431a5e6e11ee303">
+        <dex dex="/Users/vatsalshah/Desktop/AppUsageStats-master/App/build/intermediates/pre-dexed/debug/common-1.0.0-alpha3_d1d01e52c708e7db239cb22108bfeb7b8f2d1b85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vatsalshah/.android/build-cache/c22f6c7c59f6dea3b499e6f1d01a354b5d8fa7bc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/vatsalshah/Desktop/AppUsageStats-master/App/build/intermediates/pre-dexed/debug/classes_d971b5de0c8111a060adc686f98bd6d270a928ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vatsalshah/.gradle/caches/modules-2/files-2.1/android.arch.persistence.room/common/1.0.0-alpha3/f2cae03913b7d56a18f4266d0b1542fec97c6c22/common-1.0.0-alpha3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f2cae03913b7d56a18f4266d0b1542fec97c6c22">
+        <dex dex="/Users/vatsalshah/Desktop/AppUsageStats-master/App/build/intermediates/pre-dexed/debug/common-1.0.0-alpha3_f72ff705b07f5c63e90e58f21f984cc0bf9729f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vatsalshah/.android/build-cache/250e8c374860b112e8f27f7b1ef004b1863c1840/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/vatsalshah/Desktop/AppUsageStats-master/App/build/intermediates/pre-dexed/debug/classes_791e99c49024d8654e712d02a915a98cb120d608.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vatsalshah/.android/build-cache/6b724f6933e153d98170924aee57f4b202194e7c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a46c277098d453b4886db28568d627c283e53a04">
+        <dex dex="/Users/vatsalshah/Desktop/AppUsageStats-master/App/build/intermediates/pre-dexed/debug/classes_b4486e0231d36aa2652506a4e96b4ff43373cefe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vatsalshah/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="/Users/vatsalshah/Desktop/AppUsageStats-master/App/build/intermediates/pre-dexed/debug/annotations-13.0_ed2fd5028d063e3ce59f2dbd028f1f9db0398167.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vatsalshah/.android/build-cache/b380b763c56f038ff3be98e0c438c576616e253a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a3e997458b527055c356d33e1eef6ce9bb71a31d">
+        <dex dex="/Users/vatsalshah/Desktop/AppUsageStats-master/App/build/intermediates/pre-dexed/debug/classes_4089caf8b7ba85e5cc7ec4cbe2365107280589e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vatsalshah/.android/build-cache/4e61b7d7f953e1ef396e5724b0be0aae885a3c5c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/vatsalshah/Desktop/AppUsageStats-master/App/build/intermediates/pre-dexed/debug/classes_d08cbb78d877a2850dc82af5929d2aafcb96424a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vatsalshah/.gradle/caches/modules-2/files-2.1/org.antlr/antlr4/4.5.3/f35db7e4b2446e4174ba6a73db7bd6b3e6bb5da1/antlr4-4.5.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f35db7e4b2446e4174ba6a73db7bd6b3e6bb5da1">
+        <dex dex="/Users/vatsalshah/Desktop/AppUsageStats-master/App/build/intermediates/pre-dexed/debug/antlr4-4.5.3_2b9e05e0e3e493f24283829369fa3d5d4138db7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vatsalshah/.android/build-cache/c22b7088a34bae99ce72990a08a701fe1e1a52f0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="040f5ea9212ba4e8bb20505ffce0697b3beeb8d6">
+        <dex dex="/Users/vatsalshah/Desktop/AppUsageStats-master/App/build/intermediates/pre-dexed/debug/classes_659178e3fb8a7f48aadc5f34d61aee4c924c2b7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vatsalshah/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.10/4b95f4897fa13f2cd904aee711aeafc0c5295cd8/commons-codec-1.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4b95f4897fa13f2cd904aee711aeafc0c5295cd8">
+        <dex dex="/Users/vatsalshah/Desktop/AppUsageStats-master/App/build/intermediates/pre-dexed/debug/commons-codec-1.10_9795c9224ed6a8db4d7474d34654dfe689d57024.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vatsalshah/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/vatsalshah/Desktop/AppUsageStats-master/App/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_4ee7f08bf1e710b704ffdc715f17616c3e8cd8ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vatsalshah/.android/build-cache/6bdeb3abfc0e2333ad101f2c27974ccec60c0e94/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/vatsalshah/Desktop/AppUsageStats-master/App/build/intermediates/pre-dexed/debug/classes_919646016656dd279ee7cc67dc70016596e28137.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vatsalshah/.android/build-cache/ecb6af01e05db647b0ad50d21ab83d8909913888/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="aa4b0a731562216e155017a787adf304a633c732">
+        <dex dex="/Users/vatsalshah/Desktop/AppUsageStats-master/App/build/intermediates/pre-dexed/debug/classes_18ff13c99872958166a1050cf29bac5ecccda79c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vatsalshah/.android/build-cache/a4df8272b90613549dde6b6acddbd7ec71569ce7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="72d1cbd9e32623c2ee242e5f17e23a62196c6d0c">
+        <dex dex="/Users/vatsalshah/Desktop/AppUsageStats-master/App/build/intermediates/pre-dexed/debug/classes_074ef0e79c34532c61573b2c651a027be33fbcc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vatsalshah/.android/build-cache/e9abb5a0883850aaca7a27e47293d36f0386351a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9ed6af4dc232af1d465c16b8669db1b757d1d2c9">
+        <dex dex="/Users/vatsalshah/Desktop/AppUsageStats-master/App/build/intermediates/pre-dexed/debug/classes_277a4f270df04a38eeaf35e793be6db528626dec.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vatsalshah/Desktop/AppUsageStats-master/App/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/vatsalshah/Desktop/AppUsageStats-master/App/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4d0662f5ed7d1c33058c3d4c4a6ac08d69e7aba8/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vatsalshah/.android/build-cache/d02093ac5cfce3cb6ab0386a2562e3f6fd3f458b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/vatsalshah/Desktop/AppUsageStats-master/App/build/intermediates/pre-dexed/debug/classes_30eb6fa2a748e49a99ce16e370d23fe47d9c2588.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vatsalshah/.android/build-cache/d0bb119d8338e9125452400a5a33233c910da035/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d6b4f46b6f70d558af3e71a0eb20b38f9e1706c0">
+        <dex dex="/Users/vatsalshah/Desktop/AppUsageStats-master/App/build/intermediates/pre-dexed/debug/classes_7ff917fbdfa3085f668f89fb76cd1bf9ff4cc88e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vatsalshah/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.1.1/98e484e67f913e934559f7f55f0c94be5593f03c/kotlin-stdlib-1.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="98e484e67f913e934559f7f55f0c94be5593f03c">
+        <dex dex="/Users/vatsalshah/Desktop/AppUsageStats-master/App/build/intermediates/pre-dexed/debug/kotlin-stdlib-1.1.1_18dec1575273a74c874ea11daa03f94738125024.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vatsalshah/.android/build-cache/6d79f70109738a1ce02eec1eb161a61a2fb75c10/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/vatsalshah/Desktop/AppUsageStats-master/App/build/intermediates/pre-dexed/debug/classes_5119ce2d0e9280bfd167a1d134564b00ae69a7d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vatsalshah/.gradle/caches/modules-2/files-2.1/com.github.PhilJay/MPAndroidChart/v3.0.2/5d4eb08a326bdbd7fbbddc769666898c9936b282/MPAndroidChart-v3.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5d4eb08a326bdbd7fbbddc769666898c9936b282">
+        <dex dex="/Users/vatsalshah/Desktop/AppUsageStats-master/App/build/intermediates/pre-dexed/debug/MPAndroidChart-v3.0.2_0e1817b5d39182b094978bf39298d9f3e29d0706.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vatsalshah/.gradle/caches/modules-2/files-2.1/com.squareup/javapoet/1.9.0/ecc5cf9c221d55481163e773b24336db149e51/javapoet-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="00ecc5cf9c221d55481163e773b24336db149e51">
+        <dex dex="/Users/vatsalshah/Desktop/AppUsageStats-master/App/build/intermediates/pre-dexed/debug/javapoet-1.9.0_20310c745d728331d01bc036fa09a13e640ff39b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vatsalshah/Desktop/AppUsageStats-master/App/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bb82480f18a9ed26e1fc260d2af0769bd396118a">
+        <dex dex="/Users/vatsalshah/Desktop/AppUsageStats-master/App/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e871336c58b887267c294c7ce1217815634964cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vatsalshah/.gradle/caches/modules-2/files-2.1/android.arch.persistence.room/compiler/1.0.0-alpha3/d1600a4b54e8f776449750eeca85d9f6e8f76fad/compiler-1.0.0-alpha3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d1600a4b54e8f776449750eeca85d9f6e8f76fad">
+        <dex dex="/Users/vatsalshah/Desktop/AppUsageStats-master/App/build/intermediates/pre-dexed/debug/compiler-1.0.0-alpha3_dbb1f49cdcc1cb2402b322d1599769ff13da6188.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vatsalshah/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/compiler/1.0.0-alpha3/ab76889418668b9d4725a8378169f1d4687ee607/compiler-1.0.0-alpha3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ab76889418668b9d4725a8378169f1d4687ee607">
+        <dex dex="/Users/vatsalshah/Desktop/AppUsageStats-master/App/build/intermediates/pre-dexed/debug/compiler-1.0.0-alpha3_07b302e79abccd527804496c76ce9d66083eeef2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vatsalshah/.gradle/caches/modules-2/files-2.1/org.xerial/sqlite-jdbc/3.16.1/72540738ecee65b58ef5a6dbc125e83223716b17/sqlite-jdbc-3.16.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="72540738ecee65b58ef5a6dbc125e83223716b17">
+        <dex dex="/Users/vatsalshah/Desktop/AppUsageStats-master/App/build/intermediates/pre-dexed/debug/sqlite-jdbc-3.16.1_bcf759e073d393688543b6c5b73036f48ab06efb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vatsalshah/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.7.0/2637055420a2da406e3ea9920c2ff4aafd38c970/butterknife-annotations-8.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2637055420a2da406e3ea9920c2ff4aafd38c970">
+        <dex dex="/Users/vatsalshah/Desktop/AppUsageStats-master/App/build/intermediates/pre-dexed/debug/butterknife-annotations-8.7.0_c182e9498eafc29528711f0dfa2f7f4a27985373.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vatsalshah/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-compiler/8.7.0/ab10fed14d794bbe0cd5b59043e8ed634ebb14e2/butterknife-compiler-8.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ab10fed14d794bbe0cd5b59043e8ed634ebb14e2">
+        <dex dex="/Users/vatsalshah/Desktop/AppUsageStats-master/App/build/intermediates/pre-dexed/debug/butterknife-compiler-8.7.0_f6764dde341cff2b645125084f1ebc0985eaf0f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vatsalshah/.android/build-cache/4da6c21854caa8dc92df8ac3fdb45247d9b23c1d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b7dbbdab2e51e23bbb760594a2392626d5f6989b">
+        <dex dex="/Users/vatsalshah/Desktop/AppUsageStats-master/App/build/intermediates/pre-dexed/debug/classes_82fd004341ff5a2bcccca87294986405645826e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vatsalshah/.android/build-cache/2dfa45bf3c304b57c5610a54ee02db6069467211/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/vatsalshah/Desktop/AppUsageStats-master/App/build/intermediates/pre-dexed/debug/classes_7a45f336035c9bbdf2dab847218160b5f5a19334.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vatsalshah/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/Users/vatsalshah/Desktop/AppUsageStats-master/App/build/intermediates/pre-dexed/debug/gson-2.8.0_39b07e81c0a59431bb42d0a014cd0695f14c0555.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vatsalshah/.gradle/caches/modules-2/files-2.1/com.google.auto/auto-common/0.8/c6f7af0e57b9d69d81b05434ef9f3c5610d498c4/auto-common-0.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c6f7af0e57b9d69d81b05434ef9f3c5610d498c4">
+        <dex dex="/Users/vatsalshah/Desktop/AppUsageStats-master/App/build/intermediates/pre-dexed/debug/auto-common-0.8_488ffc9e1f66b9f2da9500f2dc5e662a423f1b56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vatsalshah/.android/build-cache/5e62fc9785ba698ca43f231f153f9693398e375e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="62f733cc92b1611138da965697f4654cd385e078">
+        <dex dex="/Users/vatsalshah/Desktop/AppUsageStats-master/App/build/intermediates/pre-dexed/debug/classes_899f2c34aa5275ef02fb10e375ec41bd652933db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vatsalshah/.gradle/caches/modules-2/files-2.1/android.arch.persistence.room/migration/1.0.0-alpha3/3b40e873b902e8f749ea6c415d6ad9a65c9433b0/migration-1.0.0-alpha3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3b40e873b902e8f749ea6c415d6ad9a65c9433b0">
+        <dex dex="/Users/vatsalshah/Desktop/AppUsageStats-master/App/build/intermediates/pre-dexed/debug/migration-1.0.0-alpha3_2c1d1e8b30385f50c0bf54f213c01d63a61d4e41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vatsalshah/.android/build-cache/d24327bed0b5be1d34c2045f1c364ff916595ac8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/vatsalshah/Desktop/AppUsageStats-master/App/build/intermediates/pre-dexed/debug/classes_bcd8fbd540a6f3510d48d45a898da588545ed125.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vatsalshah/.android/build-cache/7d7ee8390c98d6452b9598bbee53cb2b0d02f8a1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fb1ea5a024476b15470ea24197dfdcc5d0cd4d83">
+        <dex dex="/Users/vatsalshah/Desktop/AppUsageStats-master/App/build/intermediates/pre-dexed/debug/classes_3848cb4636c6134caa5e3ccd8d6841b563634a03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vatsalshah/.android/build-cache/e3231fc2a52475128be7ae1d788f07f1965750f1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0b7d39c161cecdb6c2b52a1cdc71faf0ffd4626e">
+        <dex dex="/Users/vatsalshah/Desktop/AppUsageStats-master/App/build/intermediates/pre-dexed/debug/classes_20cca9c088126cfec2b63ecb4972a237c5f2c98b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vatsalshah/.android/build-cache/28db993d3834e61296d9dfaa70d3f5eb89df3dbe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/vatsalshah/Desktop/AppUsageStats-master/App/build/intermediates/pre-dexed/debug/classes_d26badf95b5ec5e855fa00fdff044fdadaac3b44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vatsalshah/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/19.0/6ce200f6b23222af3d8abb6b6459e6c44f4bb0e9/guava-19.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ce200f6b23222af3d8abb6b6459e6c44f4bb0e9">
+        <dex dex="/Users/vatsalshah/Desktop/AppUsageStats-master/App/build/intermediates/pre-dexed/debug/guava-19.0_6354fbe5ea75f551d943644c2e0a5ba7c411bc5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vatsalshah/.android/build-cache/4b92e768a6d23e04ed2a904e3d6c64ac2797089c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="/Users/vatsalshah/Desktop/AppUsageStats-master/App/build/intermediates/pre-dexed/debug/classes_d9f748087e1fdbbfe90abc7a790aaada775cb536.jar" />
+    </item>
+
+</items>

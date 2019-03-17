@@ -1,0 +1,4 @@
+#Thu Aug 23 07:09:09 IST 2018
+base.0=/Users/vatsalshah/Desktop/Digital Detox/App/build/intermediates/transforms/dexMerger/debug/21
+path.0=classes.dex
+renamed.0=classes.dex

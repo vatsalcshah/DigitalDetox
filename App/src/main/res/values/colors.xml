@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#1565C0</color>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorAccent">#FFFFe57F</color>
+    <color name="ripplePrimary">#0D47A1</color>
+    <color name="textBlack">#000000</color>
+    <color name="textDarkGray">#777777</color>
+    <color name="backgroundLightGray">#FFDDDDDD</color>
+    <color name="scrollbarBgGray">#FFAAAAAA</color>
+    <color name="textWhite">#ffffff</color>
+    <color name="textWhiteTransparent">#CCFFFFFF</color>
+    <color name="textDisabled">#88FFFFFF</color>
+    <color name="colorAccentLight">#FFFFFFB0</color>
+</resources>

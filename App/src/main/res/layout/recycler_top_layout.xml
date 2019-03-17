@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/header_layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignParentTop="true"
+    android:background="@color/backgroundLightGray"
+    android:orientation="horizontal"
+    >
+
+    <TextView
+        android:id="@+id/header_usage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-condensed"
+        android:gravity="center_horizontal"
+        android:padding="5dp"
+        android:textColor="@color/textBlack"
+        android:textSize="14sp"
+        tools:text="Total usage: 5 hours, 8 minutes" />
+
+</LinearLayout>

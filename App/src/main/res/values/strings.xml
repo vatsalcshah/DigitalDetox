@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="open_app_usage_setting">Open Apps with usage access settings</string>
+    <string name="ok">OK</string>
+    <string name="open_app_usage_setting_title">Permissions required</string>
+    <string name="start_time">"Start time: "</string>
+    <string name="end_time">"End time: "</string>
+    <string name="total_time">"Total time: "</string>
+    <string name="ongoing">Ongoing</string>
+    <string name="list_time_separator">-</string>
+    <string name="explanation_access_to_appusage_is_not_enabled">Failed to retrieve app usage
+        statistics. You need to enable access
+        for this app through Settings. Tap "OK", and allow the permission for this app.
+    </string>
+
+    <string name="hello_blank_fragment">Not implemented yet</string>
+    <string name="total_usage">"Total usage: %s"</string>
+    <string name="no_usage">"No usage"</string>
+    <string name="detail_this_app">This app</string>
+    <string name="detail_other_apps">Other apps</string>
+    <string name="detail_unused">Unused</string>
+    <string name="string_loading">Loading...</string>
+    <string-array name="action_timespan">
+        <item>Daily</item>
+    </string-array>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+
+
+</resources>

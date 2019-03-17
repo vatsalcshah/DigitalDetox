@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="exclude_packages">
+        <item>com.android.systemui</item>
+        <item>android</item>
+        <item></item>
+    </string-array>
+    <string-array name="viewpager_tab_titles">
+        <item>Timeline</item>
+    </string-array>
+</resources>

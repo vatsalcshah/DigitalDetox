@@ -1,0 +1,10 @@
+#Sat Jan 19 14:08:39 IST 2019
+path.2=classes2.dex
+path.1=classes.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=/Users/vatsalshah/Desktop/Digital Detox/App/build/intermediates/transforms/dexMerger/debug/1
+base.1=/Users/vatsalshah/Desktop/Digital Detox/App/build/intermediates/transforms/dexMerger/debug/1
+base.0=/Users/vatsalshah/Desktop/Digital Detox/App/build/intermediates/transforms/dexMerger/debug/0
