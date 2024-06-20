@@ -1,7 +1,7 @@
 # 📱 DigitalDetox: App Usage Tracker and Management
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
-![DigitalDetox](https://github.com/vatsalcshah/vatsalcshah.github.io/blob/master/img/portfolio/digitaldetoxpage.jpg)
+![DigitalDetox](https://github.com/vatsalcshah/vatsalcshah.github.io/img/portfolio/digitaldetoxpage.jpg)
 
 DigitalDetox is an Android application designed to help users manage their smartphone usage effectively, providing insights into app usage patterns and facilitating better digital habits. Developed with a focus on user experience and functionality, DigitalDetox offers various features to promote mindful smartphone usage.
 
